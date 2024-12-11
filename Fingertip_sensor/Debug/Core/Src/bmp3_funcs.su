@@ -1,0 +1,5 @@
+../Core/Src/bmp3_funcs.cpp:4:6:void writeLow(uint8_t)	16	static
+../Core/Src/bmp3_funcs.cpp:39:6:void writeHigh(uint8_t)	16	static
+../Core/Src/bmp3_funcs.cpp:78:8:int8_t bmp_spi1_read(uint8_t, uint8_t, uint8_t*, uint16_t)	16	static
+../Core/Src/bmp3_funcs.cpp:93:8:int8_t bmp_spi1_write(uint8_t, uint8_t, uint8_t*, uint16_t)	24	static
+../Core/Src/bmp3_funcs.cpp:123:6:void bmp_delay_ms(uint32_t)	16	static

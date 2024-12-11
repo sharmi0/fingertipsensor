@@ -1,0 +1,23 @@
+../Core/Src/VL6180X.cpp:35:1:VL6180X::~VL6180X()	16	static
+../Core/Src/VL6180X.cpp:46:1:VL6180X::VL6180X(int)	16	static
+../Core/Src/VL6180X.cpp:56:6:bool VL6180X::begin(I2C_HandleTypeDef*)	16	static
+../Core/Src/VL6180X.cpp:81:9:uint8_t VL6180X::getAddress()	16	static
+../Core/Src/VL6180X.cpp:90:9:uint8_t VL6180X::setNewAddress(uint8_t)	16	static
+../Core/Src/VL6180X.cpp:106:6:void VL6180X::loadSettings()	16	static
+../Core/Src/VL6180X.cpp:175:9:uint8_t VL6180X::readRange()	24	static
+../Core/Src/VL6180X.cpp:207:6:bool VL6180X::startRange()	16	static
+../Core/Src/VL6180X.cpp:225:6:bool VL6180X::isRangeComplete()	16	static
+../Core/Src/VL6180X.cpp:241:6:bool VL6180X::waitRangeComplete()	16	static
+../Core/Src/VL6180X.cpp:259:9:uint8_t VL6180X::readRangeResult()	24	static
+../Core/Src/VL6180X.cpp:278:6:void VL6180X::startRangeContinuous(uint16_t)	24	static
+../Core/Src/VL6180X.cpp:299:6:void VL6180X::stopRangeContinuous()	16	static
+../Core/Src/VL6180X.cpp:316:9:uint8_t VL6180X::readRangeMode()	16	static
+../Core/Src/VL6180X.cpp:333:6:void VL6180X::clearInterrupts()	16	static
+../Core/Src/VL6180X.cpp:349:9:uint8_t VL6180X::readRangeStatus()	16	static
+../Core/Src/VL6180X.cpp:361:7:float VL6180X::readLux(uint8_t)	24	static
+../Core/Src/VL6180X.cpp:431:6:void VL6180X::setOffset(uint8_t)	16	static
+../Core/Src/VL6180X.cpp:443:6:void VL6180X::getID(uint8_t*)	24	static
+../Core/Src/VL6180X.cpp:461:9:uint8_t VL6180X::read8(uint16_t)	32	static
+../Core/Src/VL6180X.cpp:475:10:uint16_t VL6180X::read16(uint16_t)	32	static
+../Core/Src/VL6180X.cpp:489:6:void VL6180X::write8(uint16_t, uint8_t)	32	static
+../Core/Src/VL6180X.cpp:500:6:void VL6180X::write16(uint16_t, uint16_t)	32	static

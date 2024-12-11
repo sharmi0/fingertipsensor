@@ -1,0 +1,5 @@
+../Core/Src/ForceSensor.cpp:4:1:ForceSensor::ForceSensor()	16	static
+../Core/Src/ForceSensor.cpp:11:6:void ForceSensor::Initialize()	16	static
+../Core/Src/ForceSensor.cpp:46:6:void ForceSensor::config_dev(bmp3_dev*)	24	static
+../Core/Src/ForceSensor.cpp:90:6:void ForceSensor::Sample()	16	static
+../Core/Src/ForceSensor.cpp:130:6:void ForceSensor::Evaluate()	72	static
